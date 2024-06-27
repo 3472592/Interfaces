@@ -1,0 +1,9 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.exe.config
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.Properties.Resources.resources
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csproj.GenerateResource.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch7\Ch7WinFormsHideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.pdb
